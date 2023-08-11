@@ -75,6 +75,8 @@ p {
     margin-left: 20px;
 }
 
+/*Single benefits class allowed removal of redundant styling*/
+
 .benefits {
     margin-right: 20px;
     padding: 20px;
@@ -103,6 +105,8 @@ p {
     max-width: 150px;
 
 }
+
+/*Single class called services allowed removal of redundant styling*/
 
 .services {
     margin-bottom: 20px;
