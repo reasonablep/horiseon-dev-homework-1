@@ -5,9 +5,7 @@
 - The Horiseon homepage was edited to contain semantic HTML elements and updated CSS with less redundancy and more logical structure.
 - Restructuring the code of site allows for better readability, improved site performance, and search engine optimization due to accessibility parameters.
 
-## Table of Contents (Optional)
-
-If your README is long, add a table of contents to make it easy for users to find what they need.
+## Table of Contents
 
 - [Installation](#installation)
 - [Usage](#usage)
